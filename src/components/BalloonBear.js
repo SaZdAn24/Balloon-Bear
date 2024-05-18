@@ -57,7 +57,7 @@ const BalloonBear = ({ id, x, hue, speed, onFinish, size, flipped, main, z }) =>
         '--z': z
       }}
     >
-      {/* SVG Path data */}
+    
     </svg>
   );
 };
